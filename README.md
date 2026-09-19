@@ -14,7 +14,7 @@ A simple and clean to-do list application built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-[Click here to view live demo](#) 
+[Click here to view live demo](https://qamar391.github.io/todo-app/)
 
 ## How to Run Locally
 1. Clone this repository
@@ -24,3 +24,13 @@ A simple and clean to-do list application built using HTML, CSS, and JavaScript.
 - DOM manipulation using JavaScript
 - Working with browser localStorage
 - Basic Git and GitHub workflow (init, commit, push)
+
+---
+
+## 👨‍💻 Author
+
+**Qamar Aziz** — Full-Stack Web Developer
+
+- Portfolio: [qamar391.github.io](https://qamar391.github.io/)
+- LinkedIn: [linkedin.com/in/qamar-aziz](https://www.linkedin.com/in/qamar-aziz-b3167a25)
+- Email: qamaraziz014@gmail.com
